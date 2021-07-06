@@ -7,6 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=jainpawan21" alt="jainpawan21" /> 
 </p>
 
+[![Twitter Badge](https://img.shields.io/badge/-@jain_pawan21-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jain_pawan21)](https://twitter.com/jain_pawan21) [![Instagram Badge](https://img.shields.io/badge/-@jainpawan21-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/jainpawan21)](https://instagram.com/jainpawan21) [![Linkedin Badge](https://img.shields.io/badge/-jainpawan21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainpawan21)](https://www.linkedin.com/in/jainpawan21)
+[![Gmail Badge](https://img.shields.io/badge/-pawan.jain.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawan.jain.developer@gmail.com)](pawan.jain.developer@gmail.com)
+
 - 🔭 I’m currently working on **some of my side projects :P**
 
 - 👯 I’m looking to collaborate on **anything free and open source**
