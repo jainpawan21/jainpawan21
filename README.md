@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center">     <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=jainpawan21&show_icons=true" alt="jainpawan21" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center">    
 </p>
 
 <p align="center"><a href="https://novu.co/contributors/jainpawan21/" ><img src="https://contributors.novu.co/profiles/jainpawan21-small.jpg" height="170" width="450" alt="novu-gold-badge"/></a> </p>
